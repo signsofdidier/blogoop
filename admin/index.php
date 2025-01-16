@@ -1,6 +1,8 @@
-<?php include("includes/header.php") ?>
-<?php include("includes/sidebar.php") ?>
-<?php include("includes/content-top.php") ?>
-<?php include("includes/content.php") ?>
-<?php include("includes/widget.php") ?>
-<?php include("includes/footer.php") ?>
+<?php
+    require_once("includes/header.php");
+    require_once("includes/sidebar.php");
+    require_once("includes/content-top.php");
+    require_once("includes/content.php");
+    require_once("includes/widget.php");
+    require_once("includes/footer.php")
+?>;
